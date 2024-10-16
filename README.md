@@ -1,0 +1,1 @@
+This project is a clone of the Razorpay website, designed to closely match its design and functionality using HTML, CSS, Tailwind CSS, and JavaScript. The clone includes interactive components and a responsive layout to provide an engaging and user-friendly experience across different devices, including desktops, tablets, and smartphones.
